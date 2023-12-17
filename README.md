@@ -1,4 +1,4 @@
-![image](https://github.com/shinchwon/shinchaewon.data-preprocessing/assets/153939140/c628fb94-5423-4836-a3c1-d0aaf253ac80)# shinchaewon.data-preprocessing
+# shinchaewon.data-preprocessing
 # 1장 파이썬의 기초
 ## 1.1 기초
 *코멘트(주선)처리:R과 동일하게 #
