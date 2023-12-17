@@ -1,4 +1,5 @@
 # shinchaewon.data-preprocessing
+
 # 1장 파이썬의 기초
 ## 1.1 기초
 *코멘트(주선)처리:R과 동일하게 #
@@ -1878,14 +1879,38 @@ sns.boxplot(y=iris["sepal_length"])
 plt.show()
 ```
 ![image](https://github.com/shinchwon/shinchaewon.data-preprocessing/assets/153939140/35d29f5e-bdf3-4b6d-b3ff-22dad9cd6ea0)
-```
-```
-# 5
-```
-```
-```
-```
-```
+# 7 장 sklearn
+## 7.1 주요기능
+* https://scikit-learn.org/stable/
+
+1.Classification:
+* Applications: Spam detection, Image recognition.
+* Algorithms: SVM, nearest neighbors, random forest
+  
+2.Regression
+* Applications: Drug response, Stock prices.
+* Algorithms: SVR, ridge regression, Lasso
+  
+3.Clustering
+  * Applications: Customer segmentation, Grouping experiment outcomes
+  * Algorithms: k-Means, spectral clustering, mean-shift
+
+4.Dimensionality reduction
+  * Applications: Visualization, Increased efficiency
+  * Algorithms: PCA, feature selection, non-negative matrix factorization
+    
+5.Model selection
+  * Modules: grid search, cross validation, metrics
+6.Preprocessing
+  * Application: Transforming input data such as text for use with machine learning algorithms.
+  * Modules: preprocessing, feature extraction
+    
+##7.2 sklearn.datasets
+![image](https://github.com/shinchwon/shinchaewon.data-preprocessing/assets/153939140/fc774adc-2d26-43ef-94f9-20802fc9fc4c)
+
+![image](https://github.com/shinchwon/shinchaewon.data-preprocessing/assets/153939140/4844d4fe-af0d-4d4c-a53f-0dbaa8165828)
+
+
 ```
 ```
 ```
