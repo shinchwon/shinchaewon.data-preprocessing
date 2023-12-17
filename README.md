@@ -1,5 +1,6 @@
 # shinchaewon.data-preprocessing
 
+- [1장. 파이썬의 기초](https://github.com/shinchwon/shinchaewon.data-preprocessing/blob/main/README.md#1%EC%9E%A5-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EA%B8%B0%EC%B4%88)
 # 1장 파이썬의 기초
 ## 1.1 기초
 *코멘트(주선)처리:R과 동일하게 #
