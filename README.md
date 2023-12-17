@@ -1,6 +1,50 @@
 # shinchaewon.data-preprocessing
+교수님 목차에 북마크 설정을 하려고 몇시간을 노력했는데 컴퓨터가 이상해서 같은 문법을 써도 링크가 되는게 있고 안되는게 있어서 하지 못했습니다 ㅜㅜ 정말 노력했는데... 양해 부탁드립니다..
 
-- [1장. 파이썬의 기초](https://github.com/shinchwon/shinchaewon.data-preprocessing/blob/main/README.md#1%EC%9E%A5-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EA%B8%B0%EC%B4%88)
+1장 파이썬의 기초
+
+1.1 기초,
+1.2 기본 자료형,
+1.3 연산자,
+1.4 제어문,
+1.5 예외처리,
+1.6 파이썬함수
+
+2장 numpy
+
+2.1 numpy 특징, 
+2.2 배열의 생성, 
+2.3 슬라이싱/인덱싱, 
+2.4 연산, 
+2.5 기본 수학함수, 
+2.6 선형대수(벡터/행렬연산)함수, 
+2.7 난수(랜덤넘버)의 생성
+
+3장 pandas
+
+3.1 pandas dataframe, 
+3.2 pandas 통계처리, 
+3.3 pandas plot, 
+3.4 read& write data in pandas
+
+4장 plot using matplotlib,pandas, seaborn
+
+4.1 환경설정, 
+4.2 기본플롯, 
+4.3 subplot, 
+4.4 다양한 plots, 
+4.5 seaborn 패키지 & load datasets, 
+4.6 scatter plot, 
+4.7 boxplot
+
+5장 sklearn
+
+5.1 주요기능, 
+5.2 sklearn.datasets
+
+
+
+
 # 1장 파이썬의 기초
 ## 1.1 기초
 *코멘트(주선)처리:R과 동일하게 #
@@ -69,6 +113,7 @@ if a == 1:
 ```
 ## 1
 ```
+
 ## 1.2 기본 자료형
 
 * 파이썬의 기본 자료형은
@@ -913,7 +958,8 @@ print('Value of x is',x)
 ```
 ## Value of x is 2
 ```
-# 2장 Numpy
+# 2장 numpy
+
 ## 2.1 NumPy(넘파이) 특징
 * 과학 계산을 위한 라이브러리
 * 행렬/배열 처리 및 연산
@@ -1910,12 +1956,4 @@ plt.show()
 ![image](https://github.com/shinchwon/shinchaewon.data-preprocessing/assets/153939140/fc774adc-2d26-43ef-94f9-20802fc9fc4c)
 
 ![image](https://github.com/shinchwon/shinchaewon.data-preprocessing/assets/153939140/4844d4fe-af0d-4d4c-a53f-0dbaa8165828)
-
-
-```
-```
-```
-```
-```
-```
 
